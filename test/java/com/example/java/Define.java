@@ -13,4 +13,8 @@ public class Define {
     public void playMusic() {
         System.out.println("playing music");
     }
+
+    public void hey() {
+        System.out.println("this is sample");
+    }
 }
