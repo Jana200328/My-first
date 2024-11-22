@@ -71,6 +71,7 @@ public class calculators {
 
         //System.out.println(assume.getString() + " world");
 
+        System.out.println("hello");
 
                 /*Sub minus = new Sub();
         minus.diffrence();
