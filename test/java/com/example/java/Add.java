@@ -6,10 +6,7 @@ public class Add {
 
     public void sum() {
 
-        int x;
-        x=9;
-
-        int y = 0;
+        
 
 
 
